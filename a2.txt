@@ -1,3 +1,0 @@
-This is a test file.
-Set a to 201 301
-Set a to 202
